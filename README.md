@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![yjlee9909's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjlee9909&show_icons=true&theme=react)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoon91234)](https://solved.ac/yoon91234)
+![yjlee9909's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjlee9909&show_icons=true&theme=react)[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoon91234)](https://solved.ac/yoon91234)
 
 # 💪Skills
 ![HTMl5](https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
