@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yjlee9909@naver.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ✏️ My blog1: https://yjlee9909.github.io/
-- ✏️ My blog2: https://velog.io/@yoon91
+- ✏️ My blog1: https://velog.io/@yoon91
+- ✏️ My blog2: https://yjlee9909.github.io/
 
 
 # 📌
